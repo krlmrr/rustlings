@@ -1,0 +1,2 @@
+## Installing 
+`cargo install rustlings`
